@@ -29,6 +29,14 @@ Particle System Test
 ![image](https://github.com/user-attachments/assets/93460b1a-f032-4f0e-804a-db8c7497c0c2)
 
 <b>Render7</b>
+A little Project I made after i did a Mediajam with a friend of mine. We were able to create a little VR Art installation and I got inspired to do such a thing on my own but in the browser. This should also be VR compatible with the integrated Three.js Library.
+You are able to fly around on this Map but it has no collision detection or such... This Map is inspired by PS1 games with an eery Atmosphere like silent hill.
+![2024-09-2422-12-45-ezgif com-optimize](https://github.com/user-attachments/assets/70bd0218-7a53-4645-a672-2f8f68e12a1f)
+
+Here is also a short Video i made by writing a Javascript function that changes the Euler Radius and XYZ Position of the Camera every few seconds.
+https://www.youtube.com/watch?v=N_MqjLVcolM
+
+
 
 
 
