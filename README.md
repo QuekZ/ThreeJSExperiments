@@ -14,13 +14,21 @@ Using Music to Zoom in and out and also change the Size of the Boxes according t
 
 Here is also an Instagram Post which is a video: https://www.instagram.com/reel/CsPwf0Tx7yk/
 
-
 <b>Render2</b>
+Another Music Visualizer...
+![image](https://github.com/user-attachments/assets/9aa0be3c-0cc9-4c51-ad8b-8ad50ff5299a)
+
+The Instagram Post: https://www.instagram.com/reel/Cy-2FfTsZ4s/
 
 <b>Render3</b>
+Just a Mesh that reacts to multiple light sources
+![image](https://github.com/user-attachments/assets/5b1208b9-9d5a-41fd-8bcd-0db8a91e80cc)
 
 <b>Render5</b>
+Particle System Test
+![image](https://github.com/user-attachments/assets/93460b1a-f032-4f0e-804a-db8c7497c0c2)
 
 <b>Render7</b>
+
 
 
