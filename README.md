@@ -8,6 +8,12 @@ PS: Some of them wont work because of the missing files like HDR files, Images, 
 
 
 <b>Render</b>
+Music Visualizer using Standard Geometry Boxes. 
+Using Music to Zoom in and out and also change the Size of the Boxes according to the frequence.
+![image](https://github.com/user-attachments/assets/0381521e-ba93-433e-9598-7218b031506e)
+
+Here is also an Instagram Post which is a video: https://www.instagram.com/reel/CsPwf0Tx7yk/
+
 
 <b>Render2</b>
 
